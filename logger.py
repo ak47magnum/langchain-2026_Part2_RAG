@@ -37,3 +37,5 @@ def log_header(message: str):
     print(f"\n{Colors.BOLD}{Colors.PURPLE}{'='*60}{Colors.END}")
     print(f"{Colors.BOLD}{Colors.PURPLE}🚀 {message}{Colors.END}")
     print(f"{Colors.BOLD}{Colors.PURPLE}{'='*60}{Colors.END}\n")
+
+
